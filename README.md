@@ -16,4 +16,4 @@ Meetup R - Sevilla - 2 Octubre 2018
 ![Shiny Meetup R in the World](figures/Shiny Meetup R in the World.PNG)
 
 # Enlace aplicación Shiny en la nube:
-[Link Shiny:](https://amezet.shinyapps.io/Meetups_R_World/)
+[Link Shiny](https://amezet.shinyapps.io/Meetups_R_World/)
