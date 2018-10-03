@@ -1,0 +1,451 @@
+id;Grupo;Miembros;Ciudad;Pais;Estado;lon;lat
+1;Toronto - Cognitive, AI & Data Science Meetup;10344;Toronto;Canadá;ON;-79.3831843;43.653226
+2;New York Open Statistical Programming Meetup;10089;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+3;Silicon Valley Big Data Science;9752;Mountain View;Estados Unidos;CA;-122.0838511;37.3860517
+4;Data Visualization Group in the Bay Area;8316;San Francisco;Estados Unidos;CA;-122.4194155;37.7749295
+5;Data Science Festival - London;7479;Londres;Reino Unido;;-0.1277583;51.5073509
+6;Bay Area useR Group (R Programming Language);6049;San Francisco;Estados Unidos;CA;-122.4194155;37.7749295
+7;Taiwan R User Group / MLDM Monday;6007;Taipei;Taiwán;;121.5654177;25.0329694
+8;Statistical Programming DC;5840;Washington;Estados Unidos;DC;-120.7401385;47.7510741
+9;The Data Scientist;5314;Cambridge;Estados Unidos;MA;0.121817;52.205337
+10;Big Data Science;4763;Fremont;Estados Unidos;CA;-121.9885719;37.5482697
+11;Find a Tech Job;4548;Londres;Reino Unido;;-0.1277583;51.5073509
+12;Boston Data Mining;4471;Cambridge;Estados Unidos;MA;0.121817;52.205337
+13;Practical Data Science;4128;Bangalore;India;;77.5945627;12.9715987
+14;Data Science & Business Intelligence Society of Atlanta;4045;Atlanta;Estados Unidos;GA;-84.3879824;33.7489954
+15;Machine Learning Spain;3777;Madrid;España;;-3.7037902;40.4167754
+16;Vancouver Data Visualization;3632;Vancouver;Canadá;BC;-123.1207375;49.2827291
+17;Data Science for Traders, Quants, and Other Students of Risk;3524;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+18;Boston Predictive Analytics;3465;Cambridge;Estados Unidos;MA;0.121817;52.205337
+19;Greater Boston useR Group (R Programming Language);3451;Boston;Estados Unidos;MA;-71.0588801;42.3600825
+20;London Data Science #ODSC;3446;Londres;Reino Unido;;-0.1277583;51.5073509
+21;Chicago R User Group (CRUG) Data and Statistical Programming;3364;Chicago;Estados Unidos;IL;-87.6297982;41.8781136
+22;Chicago Big Data;3353;Chicago;Estados Unidos;IL;-87.6297982;41.8781136
+23;Learn Data Science;3253;Vancouver;Canadá;BC;-123.1207375;49.2827291
+24;LondonR;3218;Londres;Reino Unido;;-0.1277583;51.5073509
+25;Palo Alto Data Science Association;3179;Palo Alto;Estados Unidos;CA;-122.1430195;37.4418834
+26;Pune Big Data Analytics Meetup;3143;Pune;India;;73.8567437;18.5204303
+27;PyData Chicago;3114;Chicago;Estados Unidos;IL;-87.6297982;41.8781136
+28;NYC Data Wranglers;3062;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+29;Data Science Dojo – Seattle;3007;Redmond;Estados Unidos;WA;-122.121512;47.6739881
+30;FrenchData;2811;París;Francia;;2.3522219;48.856614
+31;PyData Atlanta;2629;Atlanta;Estados Unidos;GA;-84.3879824;33.7489954
+32;Data Education DC;2624;Washington;Estados Unidos;DC;-120.7401385;47.7510741
+33;Sydney Users of R Forum (SURF);2529;Sydney;Australia;;151.2092955;-33.8688197
+34;Data Science Lab;2486;Londres;Reino Unido;;-0.1277583;51.5073509
+35;San Francisco Data Science #ODSC;2453;San Francisco;Estados Unidos;CA;-122.4194155;37.7749295
+36;Seattle Data Geeks;2424;Seattle;Estados Unidos;WA;-122.3320708;47.6062095
+37;Melbourne Users of R Network (MelbURN);2373;Melbourne;Australia;;144.9630576;-37.8136276
+38;New York Data Science #ODSC;2337;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+39;Seattle useR Group (R Programming Language);2323;Seattle;Estados Unidos;WA;-122.3320708;47.6062095
+40;Data Science & Business Analytics;2284;Denver;Estados Unidos;CO;-104.990251;39.7392358
+41;Dublin R;2191;Dublín;Irlanda;;-6.2603097;53.3498053
+42;Dallas R Users Group;2051;Dallas;Estados Unidos;TX;-96.7969879;32.7766642
+43;Data Science Lagos;1994;Lagos;Nigeria;;3.3792057;6.5243793
+44;DataGiri - Bengaluru;1960;Bangalore;India;;77.5945627;12.9715987
+45;R User Group - Singapore (RUGS);1959;Singapur;Singapur;;103.819836;1.352083
+46;São Paulo R Users Group;1944;São Paulo;Brasil;;-46.6333094;-23.5505199
+47;Grupo de Usuarios de R de Madrid;1934;Madrid;España;;-3.7037902;40.4167754
+48;Statistical Society of Australia, Victorian Branch;1927;Melbourne;Australia;;144.9630576;-37.8136276
+49;Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw;1915;Varsovia;Polonia;;21.0122287;52.2296756
+50;St. Louis Machine Learning & Data Science;1837;Saint Louis;Estados Unidos;MO;-90.1994042;38.6270025
+51;Data Science KC;1775;Kansas City;Estados Unidos;KS;-94.5785667;39.0997265
+52;NY Data Wizards;1756;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+53;Data Science NL;1743;Ámsterdam;Países Bajos;;4.9035614;52.3679843
+54;LA R users group;1726;Santa Monica;Estados Unidos;CA;-118.4911912;34.0194543
+55;Berlin R Users Group;1699;Berlín;Alemania;;13.404954;52.5200066
+56;Twin Cities R User Group (TCRUG);1688;Minneapolis;Estados Unidos;MN;-93.2650108;44.977753
+57;Spark Global Online Meetup;1672;San Francisco;Estados Unidos;CA;-122.4194155;37.7749295
+58;Barcelona Data Science and Machine Learning Meetup;1643;Barcelona;España;;2.1734035;41.3850639
+59;The East Bay R Language Beginners Group;1641;Oakland;Estados Unidos;CA;-122.2711137;37.8043637
+60;Data Analysis and Business Modeling (DABM) Meetup;1604;Bangalore;India;;77.5945627;12.9715987
+61;Moscow Data Fest;1569;Moscú;Rusia;;37.6172999;55.755826
+62;Montreal R User Group;1566;Montréal;Canadá;QC;-73.567256;45.5016889
+63;Austin R User Group;1544;Austin;Estados Unidos;TX;-97.7430608;30.267153
+64;R Addicts Paris;1543;París;Francia;;2.3522219;48.856614
+65;Bayesian Data Analysis;1474;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+66;Portland R User Group;1471;Portland;Estados Unidos;OR;-122.6587185;45.5122308
+67;New Delhi UseR Group (R Programming Language);1459;Delhi;India;;77.1024902;28.7040592
+68;Data Science Wroclaw;1444;Wroclaw;Polonia;;17.0385376;51.1078852
+69;Statistical Seminars;1437;Washington;Estados Unidos;DC;-120.7401385;47.7510741
+70;México City Business Analytics Users Group;1431;Ciudad de México;México;;-99.133208;19.4326077
+71;Cairo R Users Group;1431;El Cairo;Egipto;;31.2357116;30.0444196
+72;Ankara Data Science and Big Data Meetup;1425;Ankara;Turquía;;32.8597419;39.9333635
+73;Budapest Users of R Network;1409;Budapest;Hungría;;19.040235;47.497912
+74;Chicago Cloud Foundry User Group;1402;Chicago;Estados Unidos;IL;-87.6297982;41.8781136
+75;Data Science Nairobi;1395;Nairobi;Kenia;;36.8219462;-1.2920659
+76;Denver R User Group;1342;Denver;Estados Unidos;CO;-104.990251;39.7392358
+77;Hacking Machine Learning;1340;München;Alemania;;11.5819805;48.1351253
+78;PyData Istanbul;1322;Istanbul;Turquía;;28.9783589;41.0082376
+79;Bogotá R Users Group;1298;Bogotá;Colombia;;-74.072092;4.7109886
+80;Bay Area entrepreneurs in statistics;1279;Oakland;Estados Unidos;CA;-122.2711137;37.8043637
+81;BASE (Birmingham Alabama Software Enthusiasts);1274;Birmingham;Estados Unidos;AL;-86.8103567;33.5185892
+82;Data Science Breakfast Meetup;1268;Sydney;Australia;;151.2092955;-33.8688197
+83;Bristol Data Scientists;1266;Bristol;Reino Unido;;-2.58791;51.454513
+84;R-Ladies San Francisco;1241;San Francisco;Estados Unidos;CA;-122.4194155;37.7749295
+85;Houston R Users Group;1234;Houston;Estados Unidos;TX;-95.3698028;29.7604267
+86;PyData Brasília;1227;Brasília;Brasil;;-47.9218204;-15.826691
+87;Multithreaded Data;1219;San Francisco;Estados Unidos;CA;-122.4194155;37.7749295
+88;Greater Toronto Area (GTA) R User's Group;1217;Toronto;Canadá;ON;-79.3831843;43.653226
+89;amst-R-dam;1210;Ámsterdam;Países Bajos;;4.9035614;52.3679843
+90;Zurich R User Group;1206;Zürich;Suiza;;8.541694;47.3768866
+91;Big Bang Data Science - Georgia;1203;Atlanta;Estados Unidos;GA;-84.3879824;33.7489954
+92;Inteligencia Artificial Argentina;1187;Buenos Aires;Argentina;;-58.3815591;-34.6036844
+93;R-Ladies Taipei;1184;Taipei;Taiwán;;121.5654177;25.0329694
+94;R-Ladies London;1181;Londres;Reino Unido;;-0.1277583;51.5073509
+95;Greater Nashville Healthcare Analytics;1173;Nashville;Estados Unidos;TN;-86.7816016;36.1626638
+96;Silicon Valley Data Science Predictive Analytics Meetup;1167;Santa Clara;Estados Unidos;CA;-121.9552356;37.3541079
+97;Auckland R Users Group (AKLRUG);1159;Auckland;Nueva Zelanda;;174.7633315;-36.8484597
+98;Druid Bay Area Meetup;1144;San Francisco;Estados Unidos;CA;-122.4194155;37.7749295
+99;Casablanca R Users Group;1136;Casablanca;Marruecos;;-7.5898434;33.5731104
+100;Big Data Gods;1131;Sunnyvale;Estados Unidos;CA;-122.0363496;37.36883
+101;Florianópolis Data Science Meetup;1108;Florianópolis;Brasil;;-48.5482195;-27.5948698
+102;Business Analytics & data science Meetup;1095;Gurgaon;India;;77.0266383;28.4594965
+103;BOSTON #ODSC;1092;Cambridge;Estados Unidos;MA;0.121817;52.205337
+104;Dutch Data Science Meetup Group;1066;porcelana de Delft;Países Bajos;;4.3570677;52.0115769
+105;R-Ladies Washington ;1051;Washington;Estados Unidos;DC;-120.7401385;47.7510741
+106;Applied Data Science of Atlanta;1046;Atlanta;Estados Unidos;GA;-84.3879824;33.7489954
+107;CopenhagenR - useR Group;1044;Copenhague;Dinamarca;;12.5683372;55.6760968
+108;Cork Big Data & Analytics Group;1037;Cork;Irlanda;;-8.4756035;51.8985143
+109;Stockholm R useR group (SRUG);1029;Estocolmo;Suecia;;18.0685808;59.3293235
+110;Westlake Village Data Science Meetup;1029;Westlake Village;Estados Unidos;CA;-118.8073729;34.1466467
+111;Grupo de Usuarios de R en Chile;1021;Santiago;Chile;;-70.6692655;-33.4488897
+112;R-Ladies Melbourne;1021;Melbourne;Australia;;144.9630576;-37.8136276
+113;Kaggle Paris Meetup;1017;París;Francia;;2.3522219;48.856614
+114;Salt Lake City Data Science;1014;Salt Lake City;Estados Unidos;UT;-111.8910474;40.7607793
+115;Applied R Munich;1011;München;Alemania;;11.5819805;48.1351253
+116;New York R User Group;1010;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+117;R Users Group - Philippines;1008;Manila;Filipinas;;120.9842195;14.5995124
+118;Accra R Users Group;989;Accra;Ghana;;-0.1869644;5.6037168
+119;Vancouver R Users Group (data analysis / statistics);988;Vancouver;Canadá;BC;-123.1207375;49.2827291
+120;Silicon Valley Data Science Journal Club;967;Mountain View;Estados Unidos;CA;-122.0838511;37.3860517
+121;The Data Scientist - San Francisco;962;San Francisco;Estados Unidos;CA;-122.4194155;37.7749295
+122;Turkish Community of R;959;Ankara;Turquía;;32.8597419;39.9333635
+123;München Artificial Intelligence and Deep Learning;941;München;Alemania;;11.5819805;48.1351253
+124;Tokyo Machine Learning Gym;924;Tokyo;Japón;;139.6917064;35.6894875
+125;DataVis LA;918;Santa Monica;Estados Unidos;CA;-118.4911912;34.0194543
+126;San Diego Data Science & R Users Group;911;Del Mar;Estados Unidos;CA;-117.2653146;32.9594891
+127;Atlanta R Users Group;903;Atlanta;Estados Unidos;GA;-84.3879824;33.7489954
+128;Data Science Indy;900;Indianapolis;Estados Unidos;IN;-86.158068;39.768403
+129;Phoenix R User Group8;890;Fénix;Estados Unidos;AZ;-112.0740373;33.4483771
+130;Data Hackers: San Francisco86;869;San Francisco;Estados Unidos;CA;-122.4194155;37.7749295
+131;R-Ladies Madrid;869;Madrid;España;;-3.7037902;40.4167754
+132;Arizona SQL Server User Group;864;Tempe;Estados Unidos;AZ;-111.9400054;33.4255104
+133;Kansas City R Users Group;861;Kansas City;Estados Unidos;MO;-94.5785667;39.0997265
+134;Köln R User Group;852;Köln;Alemania;;6.9602786;50.937531
+135;Manchester R user Group;837;Manchester;Reino Unido;;-2.2426305;53.4807593
+136;R-Ladies Santiago;829;Santiago;Chile;;-70.6692655;-33.4488897
+137;Future Chief Data Scientists in Orange County, CA;821;Orange;Estados Unidos;CA;-117.8311428;33.7174708
+138;Data+Visualization Detroit;819;Detroit;Estados Unidos;MI;-83.0457538;42.331427
+139;Data + Marketing;815;Montréal;Canadá;QC;-73.567256;45.5016889
+140;RLadiesCDMX;805;Ciudad de México;México;;-99.133208;19.4326077
+141;Learn Deep Learning;795;Londres;Reino Unido;;-0.1277583;51.5073509
+142;BelgradeR;787;Belgrade;Serbia;;20.4489216;44.786568
+143;Saint Louis R User Group;774;Saint Louis;Estados Unidos;MO;-90.1994042;38.6270025
+144;Raleigh-Durham-Chapel Hill R Users Group;768;Chapel Hill;Estados Unidos;NC;-79.0558445;35.9131996
+145;St. Petersburg R User Group;768;San Petersburgo;Rusia;;30.3350986;59.9342802
+146;Data Science Workshop;767;Chicago;Estados Unidos;IL;-87.6297982;41.8781136
+147;eRka / Cracow R Users Group;745;Kraków;Polonia;;19.9449799;50.0646501
+148;RBelgium;743;Bruselas;Bélgica;;4.3517103;50.8503396
+149;Data Science Tbilisi;732;Tbilisi;Georgia;;44.827096;41.7151377
+150;United Arab Emirates (UAE) Data Scientists Meetup;722;Abu Dhabi;EAU;;54.3773438;24.453884
+151;RugBcn, Barcelona R users group;719;Barcelona;España;;2.1734035;41.3850639
+152;Kolkata Data Science Meetup;718;Calcuta;India;;88.363895;22.572646
+153;MLGeek Brussels;709;Bruselas;Bélgica;;4.3517103;50.8503396
+154;Bots,AR,PWeb-Mobile,ServerlessCC & BChain Codeseeker's;706;Bangalore;India;;77.5945627;12.9715987
+155;The Data Scientist-Chicago;700;Northbrook;Estados Unidos;IL;-87.8289548;42.1275267
+156;Charlotte R Users Group;698;Charlotte;Estados Unidos;NC;-80.8431267;35.2270869
+157;NYC Stats Programming Master Classes;697;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+158;Ann Arbor R User Group;692;Ann Arbor;Estados Unidos;MI;-83.7430378;42.2808256
+159;Charleston Data Science;680;Charleston;Estados Unidos;SC;-79.9310512;32.7764749
+160;Johannesburg R User Group (R Programming Language);659;Johannesburg;Sudáfrica;;28.0473051;-26.2041028
+161;Charlottesville Data Science;654;Charlottesville;Estados Unidos;VA;-78.4766781;38.0293059
+162;Kampala R Users Group;647;Kampala;Uganda;;32.5825197;0.3475964
+163;New York City R/Bioconductor for Genomics;647;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+164;Data Science Study Group: South Florida;642;Miami;Estados Unidos;FL;-80.1917902;25.7616798
+165;NYC Julia User Group;640;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+166;Burlington Data Scientists;635;Burlington;Estados Unidos;VT;-73.212072;44.4758825
+167;PhillyR;630;Filadelfia;Estados Unidos;PA;-75.1652215;39.9525839
+168;Data Science Rotterdam;626;Rotterdam;Países Bajos;;4.4777326;51.9244201
+169;Greater Cleveland R Group;623;Independence;Estados Unidos;OH;-94.4155068;39.0911161
+170;Prague R Meetup Group;622;Praga;República Checa;;14.4378005;50.0755381
+171;R-Ladies Chicago;614;Chicago;Estados Unidos;IL;-87.6297982;41.8781136
+172;Hamburg R User Group;613;Hamburgo;Alemania;;9.9936819;53.5510846
+173;R-Ladies Budapest;611;Budapest;Hungría;;19.040235;47.497912
+174;CalgaryR;609;Calgary;Canadá;AB;-114.0708459;51.0486151
+175;DataViz Nantes;605;Nantes;Francia;;-1.553621;47.218371
+176;Dar Es Salaam R Users Group;591;Dar es Salaam;Tanzania;;39.2083284;-6.792354
+177;Data science & analytics Brno;583;Brno;República Checa;;16.6068371;49.1950602
+178;Brisbane Users of R Group - BURGr;583;Brisbane;Australia;;153.0251235;-27.4697707
+179;Mississauga Big Data Analytics Meetup;583;Mississauga;Canadá;ON;-79.6441198;43.5890452
+180;MadR - Madison R Programming UseRs Group;579;Madison;Estados Unidos;WI;-89.4012302;43.0730517
+181;mumbai-r-user-group;573;Bombay;India;;72.8776559;19.0759837
+182;Chicago Chapter American Statistical Association;556;Chicago;Estados Unidos;IL;-87.6297982;41.8781136
+183;PyData Wroclaw;553;Wroclaw;Polonia;;17.0385376;51.1078852
+184;Kyiv useR! Group;548;Kiev;Ucrania;;30.5234;50.4501
+185;Datascience in Finance, Paris;547;París;Francia;;2.3522219;48.856614
+186;UVa R Users Group;545;Charlottesville;Estados Unidos;VA;-78.4766781;38.0293059
+187;Data Science Strasbourg;543;Estrasburgo;Francia;;7.7521113;48.5734053
+188;TBDI - Big Data, Hadoop, Data Science & Advanced A;541;Irvine;Estados Unidos;CA;-117.8265049;33.6845673
+189;Warsaw Predictive Analytics User Group (WPAUG);541;Varsovia;Polonia;;21.0122287;52.2296756
+190;Data Science ?ód?;539;Lodz;Polonia;;19.4559833;51.7592485
+191;Statinfer Data Science Meetup;537;Bangalore;India;;77.5945627;12.9715987
+192;CaRdiff - the Cardiff R User Group;533;Cardiff;Reino Unido;;-3.17909;51.481581
+193;The Perth Data Science Meetup;532;Perth;Australia;;115.8604572;-31.9505269
+194;R-Ladies ?zmiR;532;Izmir;Turquía;;27.142826;38.423734
+195;Berlin Real World Data Science/Machine Learning Group;526;Berlín;Alemania;;13.404954;52.5200066
+196;Open Data Durban Meetup;525;Durban;Sudáfrica;;31.0218404;-29.8586804
+197;Oslo useR! Group;524;Oslo;Noruega;;10.7522454;59.9138688
+198;ROC Data Science;523;Rochester;Estados Unidos;NY;-77.6088465;43.1565779
+199;Bath Machine Learning Meetup;523;Bath;Reino Unido;;-2.3590167;51.3810641
+200;Boston R/Bioconductor for Genomics;516;Boston;Estados Unidos;MA;-71.0588801;42.3600825
+201;Central Iowa R User Group;515;Des Moines;Estados Unidos;IA;-93.6249593;41.5868353
+202;Greater Cleveland Python/Julia/R Data Science Group;513;Cleveland;Estados Unidos;OH;-81.6943605;41.49932
+203;Meetup R Nantes;507;Nantes;Francia;;-1.553621;47.218371
+204;Data Science Johannesburg;504;Johannesburg;Sudáfrica;;28.0473051;-26.2041028
+205;Greenville Data Science & Analytics Meetup;503;Greenville;Estados Unidos;SC;-82.3940104;34.8526176
+206;R Users Group Hyderabad(RUGH);500;Hyderabad;India;;78.486671;17.385044
+207;Boston-area Women's Bioinformatics Meetup;500;Cambridge;Estados Unidos;MA;0.121817;52.205337
+208;DataGiri - Delhi NCR;500;Delhi;India;;77.1024902;28.7040592
+209;"Brasília UseR Meetup (Linguagem de Programação ""R"")";499;Brasília;Brasil;;-47.9218204;-15.826691
+210;Cork (Ireland) R-Users Group;492;Cork;Irlanda;;-8.4756035;51.8985143
+211;R-Ladies Columbus;490;Columbus;Estados Unidos;OH;-94.8441239;37.1692278
+212;Kaohsiung Python Meetup;486;Kaohsiung;Taiwán;;120.3014353;22.6272784
+213;R-Ladies Lisboa;486;Lisboa;Portugal;;-9.1393366;38.7222524
+214;The Genève Data Analytics Group;478;Genève;Suiza;;6.1431577;46.2043907
+215;R-Ladies RTP;475;Durham;Estados Unidos;NC;-78.898619;35.9940329
+216;rMoscow;470;Moscú;Rusia;;37.6172999;55.755826
+217;San Carlos R User Group;469;San Jose;Costa Rica;;-121.8863286;37.3382082
+218;IndyUseR Group;461;Indianapolis;Estados Unidos;IN;-86.158068;39.768403
+219;Hyderabad BigData and Data Science Meetup;459;Hyderabad;India;;78.486671;17.385044
+220;Istanbul KNIME Users;458;Istanbul;Turquía;;28.9783589;41.0082376
+221;R Users Group, Gainesville, FL;457;Gainesville;Estados Unidos;FL;-82.3248262;29.6516344
+222;Western Mass Statistics and Data Science;456;Northampton;Estados Unidos;MA;-72.6412013;42.3250896
+223;Pittsburgh useR Group;455;Pittsburgh;Estados Unidos;PA;-79.9958864;40.4406248
+224;Qatar Data Scientists;454;Doha;Qatar;;51.5310398;25.2854473
+225;Poznan R Users Group (PAZUR);454;Poznan;Polonia;;16.9251681;52.406374
+226;Birmingham R User Group (R Programming Language);441;Birmingham;Reino Unido;;-86.8103567;33.5185892
+227;Cali R Users Group (Cali);441;Cali;Colombia;;-76.5319854;3.4516467
+228;Data Science Exeter;441;Exeter;Reino Unido;;-70.9477546;42.9814292
+229;Practical Data Science and Machine Learning;439;Århus;Dinamarca;;10.203921;56.162939
+230;R-Ladies Paris;435;París;Francia;;2.3522219;48.856614
+231;UseRS;422;Porto Alegre;Brasil;;-51.2176584;-30.0346471
+232;Nashville Conda, R, Julia Users Group;420;Nashville;Estados Unidos;TN;-86.7816016;36.1626638
+233;PyData Bogotá;418;Bogotá;Colombia;;-74.072092;4.7109886
+234;PyData Athens;417;Atenas;Grecia;;-84.3738394;9.9784936
+235;STWUR - Wroclaw R Users Group Meetup;416;Wroclaw;Polonia;;17.0385376;51.1078852
+236;DataGiri - Hyderabad;413;Hyderabad;India;;78.486671;17.385044
+237;Trenton R Users (TRU);411;Trenton;Estados Unidos;NJ;-74.759717;40.2205824
+238;Vienna<-R;400;Viena;Austria;;16.3738189;48.2081743
+239;R-Lab Milano;396;Milán;Italia;;9.189982;45.4642035
+240;Stan Users - Boston/Camberville;393;Cambridge;Estados Unidos;MA;0.121817;52.205337
+241;Las Vegas R Users Group;390;Las Vegas;Estados Unidos;NV;-115.1398296;36.1699412
+242;PyData Cardiff Meetup;387;Cardiff;Reino Unido;;-3.17909;51.481581
+243;R Users Group Chennai;385;Chennai;India;;80.2707184;13.0826802
+244;SheffieldR - Sheffield R Users Group;380;Sheffield;Reino Unido;;-1.470085;53.381129
+245;NottinghamR - Nottingham R Users Group;380;Nottingham;Reino Unido;;-1.1581086;52.9547832
+246;Data Science Brest;380;Brest;Francia;;-4.486076;48.390394
+247;R-Ladies Rio de Janeiro;378;Rio de Janeiro;Brasil;;-43.1728965;-22.9068467
+248;Salt Lake City R Users Group;374;Salt Lake City;Estados Unidos;UT;-111.8910474;40.7607793
+249;Stanford R Meetup;370;Stanford;Estados Unidos;CA;-122.1660756;37.424106
+250;R-Ladies Berlin;367;Berlín;Alemania;;13.404954;52.5200066
+251;Oxford R User Group;366;Oxford;Reino Unido;;-97.1689296;37.2741908
+252;Florianópolis R-NNQ R users group;364;Florianópolis;Brasil;;-48.5482195;-27.5948698
+253;R-Ladies Cape Town;360;Ciudad del Cabo;Sudáfrica;;18.4240553;-33.9248685
+254;KNIME User Group UK;358;Londres;Reino Unido;;-0.1277583;51.5073509
+255;R-Ladies Lima;357;Lima;Perú;;-77.042754;-12.0463731
+256;Cambridge R Users Group Meetup;351;Cambridge;Reino Unido;;0.121817;52.205337
+257;Berlin KNIME Users;346;Berlín;Alemania;;13.404954;52.5200066
+258;R-Ladies Nashville;340;Nashville;Estados Unidos;TN;-86.7816016;36.1626638
+259;Stuttgart Predictive Analytics, Predictive Maintenance, AI;338;Stuttgart;Alemania;;9.1829321;48.7758459
+260;R-Ladies Philly;335;Filadelfia;Estados Unidos;PA;-75.1652215;39.9525839
+261;Riyadh UseR Group;334;Riyadh;Arabia Saudí;;46.6752957;24.7135517
+262;San Diego Women in Data Science;331;San Diego;Estados Unidos;CA;-117.1610838;32.715738
+263;Data Science  Dominicana;328;Santo Domingo;República Dominicana;;-69.9312117;18.4860575
+264;Wellington R Users Group (WRUG);327;Wellington;Nueva Zelanda;;174.776236;-41.2864603
+265;BaselR;325;Basilea;Suiza;;7.5885761;47.5595986
+266;Querétaro Business Analytics Users Group;324;Querétaro;México;;-100.3898881;20.5887932
+267;R-Ladies Barcelona;323;Barcelona;España;;2.1734035;41.3850639
+268;Data Science Chattanooga;322;Chattanooga;Estados Unidos;TN;-85.3096801;35.0456297
+269;Sevilla R users;322;Sevilla;España;;-5.9844589;37.3890924
+270;Fort Collins Data Science;321;Fort Collins;Estados Unidos;CO;-105.084423;40.5852602
+271;Indore Hadoop User Group;319;Indore;India;;75.8577258;22.7195687
+272;Big Data Visualization Tokyo;317;Tokyo;Japón;;139.6917064;35.6894875
+273;Orange County R Users Group (OCRUG);316;Huntington Beach;Estados Unidos;CA;-117.9988026;33.6594835
+274;Learn Data Science with Data.Miami;315;Miami;Estados Unidos;FL;-80.1917902;25.7616798
+275;ATLytiCS: Analytics For Good;315;Atlanta;Estados Unidos;GA;-84.3879824;33.7489954
+276;Data Scientists in Stamford;311;Stamford;Estados Unidos;CT;-73.5387341;41.0534302
+277;Hobart R Users Group;310;Hobart;Australia;;147.3271949;-42.8821377
+278;Wiesbaden R Users Group;306;Wiesbaden;Alemania;;8.2397608;50.0782184
+279;Campinas R Users Meetup;305;Campinas;Brasil;;-47.073845;-22.9329252
+280;Austin Data Visualization;302;Austin;Estados Unidos;TX;-97.7430608;30.267153
+281;DATA SCIENCE & PROCESS Optimization;301;París;Francia;;2.3522219;48.856614
+282;Predictive Modellers - Workshop;300;Hyderabad;India;;78.486671;17.385044
+283;Canberra R Users Group;299;Canberra;Australia;;149.1300092;-35.2809368
+284;Detroit useR Group (R Programming Language);299;Birmingham;Estados Unidos;MI;-86.8103567;33.5185892
+285;Santa Barbara R Users Group;298;Santa Barbara;Estados Unidos;CA;-119.6981901;34.4208305
+286;Colombo Haskell Meetup;297;Dehiwala-Mount Lavinia;Sri Lanka;;79.8800832;6.8301185
+287;Tampa R Users Group;297;Tampa;Estados Unidos;FL;-82.4571776;27.950575
+288;DataPotluck;296;Chicago;Estados Unidos;IL;-87.6297982;41.8781136
+289;R-Ladies Seattle;295;Seattle;Estados Unidos;WA;-122.3320708;47.6062095
+290;Timeseries Forecasting and Event Analytics Melbourne Meetup;295;Melbourne;Australia;;144.9630576;-37.8136276
+291;R-Ladies San Diego;293;San Diego;Estados Unidos;CA;-117.1610838;32.715738
+292;Data Science Manchester;292;Sale;Reino Unido;;-2.323702;53.425561
+293;Oracle Big Data 4 the Enterprise;288;Londres;Reino Unido;;-0.1277583;51.5073509
+294;R-Ladies Auckland;285;Auckland;Nueva Zelanda;;174.7633315;-36.8484597
+295;Ha Noi R Users Group Meetup;281;Ha Noi;Vietnam;;105.8341598;21.0277644
+296;Power BI User Group Frankfurt am Main;281;Frankfurt;Alemania;;8.6821267;50.1109221
+297;Panama R User's Group;280;Panamá;Panamá;;-80.782127;8.537981
+298;Intro to R, Data Analytics - Training and Workshop;278;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+299;Connecticut R Users Group;274;New Haven;Estados Unidos;CT;-72.9278835;41.308274
+300;Statistical Seminars DC;271;Washington;Estados Unidos;DC;-120.7401385;47.7510741
+301;R-Ladies Los Angeles;268;Los Angeles;Estados Unidos;CA;-118.2436849;34.0522342
+302;Warwick R User Group (R Programming Language);265;Coventry;Reino Unido;;-1.519693;52.406822
+303;CinDay RUG;262;Dayton;Estados Unidos;OH;-84.1916069;39.7589478
+304;Albany R Users Group;262;Albany;Estados Unidos;NY;-73.7562317;42.6525793
+305;Scala for Startups is merged into SF Scala;261;San Francisco;Estados Unidos;CA;-122.4194155;37.7749295
+306;R-Ladies Manchester;258;Manchester;Reino Unido;;-2.2426305;53.4807593
+307;Nijmegen eveRybody;256;Nijmegen;Países Bajos;;5.8428281;51.8448837
+308;R User Group Finland;249;Helsinki;Finlandia;;24.9383791;60.1698557
+309;Quantum Computing Collective Trivandrum;246;Thiruvananthapuram;India;;76.9366376;8.5241391
+310;Data Science Unplugged;245;Lisboa;Portugal;;-9.1393366;38.7222524
+311;R-Ladies Belgrade;243;Belgrade;Serbia;;20.4489216;44.786568
+312;Code•It! Little Rock Dev Meetup;241;Little Rock;Estados Unidos;AR;-92.2895948;34.7464809
+313;R-Ladies Orlando;239;Orlando;Estados Unidos;FL;-81.3792365;28.5383355
+314;R Ladies - Twin Cities;237;Minneapolis;Estados Unidos;MN;-93.2650108;44.977753
+315;Leipzig R statistical computing;236;Leipzig;Alemania;;12.3730747;51.3396955
+316;Bi[R]mingham R Meetup;236;Birmingham;Estados Unidos;AL;-86.8103567;33.5185892
+317;Milwaukee R Meetup;231;Milwaukee;Estados Unidos;WI;-87.9064736;43.0389025
+318;R-Ladies Vancouver;231;Vancouver;Canadá;BC;-123.1207375;49.2827291
+319;Data Science & Artificial Intelligence/AI South East London;231;Beckenham;Reino Unido;;-0.025813;51.40817
+320;R-Ladies Munich;230;München;Alemania;;11.5819805;48.1351253
+321;R Ladies Miami;223;Miami;Estados Unidos;FL;-80.1917902;25.7616798
+322;Exeter R Users Group (Exeter, Devon, England);214;Exeter;Reino Unido;;-70.9477546;42.9814292
+323;Arlington Statistical Computing Meetup;213;Arlington;Estados Unidos;VA;-77.0909809;38.8816208
+324;R-Ladies St. Louis;211;Saint Louis;Estados Unidos;MO;-90.1994042;38.6270025
+325;Winston-Salem R Users Group;209;Winston Salem;Estados Unidos;NC;-80.244216;36.0998596
+326;Lansing Area R Users Group;198;East Lansing;Estados Unidos;MI;-84.4838654;42.7369792
+327;R <-Gang: R Programming & Statistical Computing Meetup;197;Bensalem;Estados Unidos;PA;-74.9325683;40.0994425
+328;XMU-R;197;Xiamen;China;;118.089425;24.479833
+329;Pune R users Meetup;194;Pune;India;;73.8567437;18.5204303
+330;Rhus - useR group;193;Århus;Dinamarca;;10.203921;56.162939
+331;Spain Quantum Computing;189;Madrid;España;;-3.7037902;40.4167754
+332;Upstate Data Analytics;185;Spartanburg;Estados Unidos;SC;-81.9320482;34.9495672
+333;Alamo City R Users Group;183;San Antonio;Estados Unidos;TX;-98.4936282;29.4241219
+334;Columbus useR Group;179;Columbus;Estados Unidos;OH;-94.8441239;37.1692278
+335;Analyze Utah;178;Salt Lake City;Estados Unidos;UT;-111.8910474;40.7607793
+336;PyData Indy;178;Indianapolis;Estados Unidos;IN;-86.158068;39.768403
+337;R-Ladies PDX;178;Portland;Estados Unidos;OR;-122.6587185;45.5122308
+338;Data Visualization in MetroWest Boston;177;Hopkinton;Estados Unidos;MA;-71.5225646;42.2286954
+339;DakaR R User Group;175;Dakar;Senegal;;-17.4676861;14.716677
+340;AthensR;175;Atenas;Grecia;;-84.3738394;9.9784936
+341;Abidjan R users Meetup;167;Abidjan;Costa de Marfil;;-4.0082563;5.3599517
+342;Western Australia R Group (WARG);166;Perth;Australia;;115.8604572;-31.9505269
+343;R-Ladies Irvine;166;Irvine;Estados Unidos;CA;-117.8265049;33.6845673
+344;R-Ladies Porto Alegre;164;Porto Alegre;Brasil;;-51.2176584;-30.0346471
+345;Melbourne ML/AI Bookclub;164;Melbourne;Australia;;144.9630576;-37.8136276
+346;R-Ladies Ames;163;Ames;Estados Unidos;IA;-93.6319131;42.0307812
+347;R-Ladies Montreal;163;Montréal;Canadá;QC;-73.567256;45.5016889
+348;Barranquilla Analítica R;160;Barranquilla;Colombia;;-74.8069813;11.0041072
+349;Analytics Talks;155;Madrid;España;;-3.7037902;40.4167754
+350;Data Science - Abu Dhabi;155;Abu Dhabi;EAU;;54.3773438;24.453884
+351;Offa R Users Group;152;Offa;Nigeria;;4.7174062;8.1393408
+352;R-Ladies Adelaide;152;Adelaide;Australia;;138.6007456;-34.9284989
+353;The México City R Users Group;151;Ciudad de México;México;;-99.133208;19.4326077
+354;R-Ladies Brussels;151;Bruselas;Bélgica;;4.3517103;50.8503396
+355;Bozeman Area R useR Group;149;Bozeman;Estados Unidos;MT;-111.0429339;45.6769979
+356;R-Ladies Montevideo;147;Montevideo;Uruguay;;-56.1645314;-34.9011127
+357;Adelaide R Users Group;145;Adelaide;Australia;;138.6007456;-34.9284989
+358;We R;142;Londres;Reino Unido;;-0.1277583;51.5073509
+359;PyData Guatemala;142;Guatemala;Guatemala;;-90.230759;15.783471
+360;R-Ladies Natal;133;Natal;Brasil;;-35.200916;-5.7792569
+361;Mulhouse Machine Learning Meetup;131;Mulhouse;Francia;;7.335888;47.750839
+362;Data For Good Los Angeles;127;Los Angeles;Estados Unidos;CA;-118.2436849;34.0522342
+363;Gurgaon Data Scientists (GDS);129;Gurgaon;India;;77.0266383;28.4594965
+364;Bogotá R Users Group Meetup (Shiny data apps);126;Bogotá;Colombia;;-74.072092;4.7109886
+365;R-Ladies Cambridge;126;Cambridge;Reino Unido;;0.121817;52.205337
+366;Learning Analytics Perú;125;Lima;Perú;;-77.042754;-12.0463731
+367;RLyon;124;Lyon;Francia;;4.835659;45.764043
+368;R-Ladies Chennai;123;Chennai;India;;80.2707184;13.0826802
+369;Trojmiasto Spark Meetup;123;Gdansk;Polonia;;18.6466384;54.3520252
+370;AalborgRUG;121;Aalborg;Dinamarca;;9.921747;57.0488195
+371;Lads and Lasses Who R;120;Merrifield;Estados Unidos;VA;-77.2269262;38.8742785
+372;Bucks County Data Science (DataBucks);119;Chalfont;Estados Unidos;PA;-75.2090623;40.2884395
+373;Seacoast (ME/NH) Data Science Meetup;117;Portsmouth;Estados Unidos;NH;-70.7625532;43.0717552
+374;R-Ladies Tbilisi;116;Tbilisi;Georgia;;44.827096;41.7151377
+375;R-Ladies East Lansing;116;East Lansing;Estados Unidos;MI;-84.4838654;42.7369792
+376;R-Ladies Curitiba;111;Curitiba;Brasil;;-49.3044253;-25.4808762
+377;R-Ladies Charlottesville;110;Charlottesville;Estados Unidos;VA;-78.4766781;38.0293059
+378;adminR: R in Swiss Official Statistics;110;Berna;Suiza;;7.4474468;46.9479739
+379;Belo Horizonte R Users Group;109;Belo Horizonte;Brasil;;-43.9345593;-19.9172987
+380;France KNIME Users;108;París;Francia;;2.3522219;48.856614
+381;Patra's R Users Group;107;Pátrai;Grecia;;21.734574;38.2466395
+382;London Probability Theory Meetup;107;Londres;Reino Unido;;-0.1277583;51.5073509
+383;Hong Kong R User Group;107;Hong Kong;Hong Kong;;114.109497;22.396428
+384;Chicago Indie Hackers;106;Chicago;Estados Unidos;IL;-87.6297982;41.8781136
+385;R-Ladies Johannesburg;105;Johannesburg;Sudáfrica;;28.0473051;-26.2041028
+386;Osnabrück R und Data Science;104;Osnabrück;Alemania;;8.0471788;52.2799112
+387;Researcher services at the University of Melbourne;97;Melbourne;Australia;;144.9630576;-37.8136276
+388;sonRaí;97;Galway;Irlanda;;-9.0567905;53.270668
+389;Kasseler useR Group (R Programming Language);95;Kassel;Alemania;;9.4797461;51.3127114
+390;Delhi R Users Group Meetup;94;Delhi;India;;77.1024902;28.7040592
+391;lubbockR Meetup;94;Lubbock;Estados Unidos;TX;-101.8551665;33.5778631
+392;Little Rock R User Group;93;Little Rock;Estados Unidos;AR;-92.2895948;34.7464809
+393;Data Science Den Haag;93;den Haag;Países Bajos;;4.3006999;52.0704978
+394;Campinas Julia Language Meetup;91;Campinas;Brasil;;-47.073845;-22.9329252
+395;R-Ladies Leuven;83;Lovaina;Bélgica;;4.7005176;50.8798438
+396;Honolulu Data Science Group;82;Honolulu;Estados Unidos;HI;-157.8583333;21.3069444
+397;R-Ladies Córdoba;77;Córdoba;Argentina;;-64.1887761;-31.4200833
+398;Seoul R developers;73;Seúl;Corea del Sur;;126.9779692;37.566535
+399;R-Ladies Mendoza;73;Mendoza;Argentina;;-68.8458386;-32.8894587
+400;Port City Analytics;70;Wilmington;Estados Unidos;NC;-77.8868117;34.2103894
+401;Central Illinois SAS® User Group Meetup;68;Springfield;Estados Unidos;IL;-72.589811;42.1014831
+402;Chiang Mai R Users Group;67;Chiang Mai;Tailandia;;98.9817163;18.7060641
+403;R Users Group Kenya (RUGK);66;Nairobi;Kenia;;36.8219462;-1.2920659
+404;R-Ladies Connecticut;65;Hartford;Estados Unidos;CT;-72.6733723;41.7658043
+405;rbtu: R belong to us!;64;Dallas;Estados Unidos;TX;-96.7969879;32.7766642
+406;Cairo Bioinformatics Group;59;El Cairo;Egipto;;31.2357116;30.0444196
+407;R-Ladies Montenegro;59;HN;Montenegro;;18.5236629;42.4576354
+408;Cebu R Users Group (CRUG);56;Cebu;Filipinas;;123.8854366;10.3156992
+409;R-Ladies Liverpool;54;Liverpool;Reino Unido;;-2.9915726;53.4083714
+410;LA Bayesian Statistics STAN Meetup;53;Los Angeles;Estados Unidos;CA;-118.2436849;34.0522342
+411;Inland Northwest R User Group (INRUG);50;Spokane;Estados Unidos;WA;-117.4260465;47.6587802
+412;Chicago North West Suburbs R user group;50;Northbrook;Estados Unidos;IL;-87.8289548;42.1275267
+413;Dr. Stats;50;Belo Horizonte;Brasil;;-43.9345593;-19.9172987
+414;Nairobi R Users Group;50;Nairobi;Kenia;;36.8219462;-1.2920659
+415;R Users for Data Science en Monterrey;50;Monterrey;México;;-100.3161126;25.6866142
+416;RVA R User's Group.;50;Richmond;Estados Unidos;VA;-77.4360481;37.5407246
+417;Meetup: Bayesian Econometrics;49;Medellín;Colombia;;-75.5812119;6.244203
+418;Houston Statistics Forum;48;League City;Estados Unidos;TX;-95.0949303;29.5074538
+419;NYCFinance;47;Nueva York;Estados Unidos;NY;-74.0059728;40.7127753
+420;Portsmouth R User Group Meetup;43;Portsmouth;Reino Unido;;-70.7625532;43.0717552
+421;R-Ladies Waterloo;42;Waterloo;Canadá;ON;4.3991;50.71469
+422;R-Ladies Edinburgh;40;Edimburgo;Reino Unido;;-3.188267;55.953252
+423;Chico R Users Group;39;Chico;Estados Unidos;CA;-121.8374777;39.7284944
+424;Hermosa Beach R And Python Data Science Group;40;Hermosa Beach;Estados Unidos;CA;-118.3995194;33.8622366
+425;R@Minho;38;Braga;Portugal;;-8.426507;41.5454486
+426;Canterbury R Users Group;38;Canterbury;Reino Unido;;1.0789089;51.280233
+427;DuPage R Meetup;38;Lisle;Estados Unidos;IL;-88.0747875;41.801141
+428;Malaysia R User Public Group;35;Kuala Lumpur;Malasia;;101.686855;3.139003
+429;Thailand R User Group;31;Chiang Mai;Tailandia;;98.9817163;18.7060641
+430;R <- Slovakia;30;Bratislava;Eslovaquia;;17.1077478;48.1485965
+431;R-Ladies Santa Rosa;30;Santa Rosa;Argentina;;-64.2912369;-36.620922
+432;Greater Portland useR Group (R programming language);30;Portland;Estados Unidos;ME;-122.6587185;45.5122308
+433;R-Ladies Strasbourg;28;Estrasburgo;Francia;;7.7521113;48.5734053
+434;R-Ladies Tiruchirappalli;27;Tiruchchirappalli;India;;78.7046725;10.7904833
+435;"eRfahrungsaustausch zum Thema ""R"" in Esslingen";26;Esslingen;Alemania;;9.3201122;48.7433425
+436;Cape Fear R Users Group;24;Wilmington;Estados Unidos;NC;-77.8868117;34.2103894
+437;R-Ladies Americana;23;Americana;Brasil;;-47.2826144;-22.7244322
+438;R-Ladies Valencia;23;Valencia;España;;-0.3762881;39.4699075
+439;R-Ladies Iowa City;21;Iowa City;Estados Unidos;IA;-91.5301683;41.6611277
+440;Bhavnagar Data Analysis Meetup;20;Bhavnagar;India;;72.1519304;21.7644725
+441;R-Ladies Buffalo;19;Buffalo;Estados Unidos;NY;-78.8783689;42.8864468
+442;West Haven Matlab Enthusiasts;17;West Haven;Estados Unidos;CT;-72.9469711;41.2705484
+443;Adventures in R Meetup;17;Newcastle Upon Tyne;Reino Unido;;-1.61778;54.978252
+444;R-Ladies Portland, Maine;16;Portland;Estados Unidos;ME;-122.6587185;45.5122308
+445;Alteryx User Group Brisbane;15;Brisbane;Australia;;153.0251235;-27.4697707
+446;ShenzhenR;13;Las Vegas;Estados Unidos;NV;-115.1398296;36.1699412
+447;Tecate BC México R Users Group Meetup;11;Tecate;México;;-116.6256752;32.563609
+448;R-Ladies Linz;9;Linz;Austria;;14.28583;48.30694
+449;Institut Pataphysique de Programmation Mathématique;7;París;Francia;;2.3522219;48.856614
+450;Microsoft Outlook Copenhagen;5;Copenhague;Dinamarca;;12.5683372;55.6760968
