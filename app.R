@@ -46,7 +46,7 @@ options(DT.options = list(
 
 # Define UI
 ui <- fluidPage(
-  h3("Meetups R in the World"),
+  h3("R Meetups in the World"),
   leafletOutput("mymap", width = '100%', height = 600),
   DT::dataTableOutput('Meetups.R.World')
 )
